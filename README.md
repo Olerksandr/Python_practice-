@@ -10,7 +10,7 @@ This is a repository for my Python practice to learn how to write code.
 - Working with numbers
 - Working with digits
 - Basic algorithms
-
+- add list
 ## My exercises
 
 - Number Analyzer
@@ -19,3 +19,4 @@ This is a repository for my Python practice to learn how to write code.
 - Maximum Number from Seven Numbers
 - Sum of Digits
 - Second Largest Number
+- list_practice
