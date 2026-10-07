@@ -10,7 +10,7 @@ This is a repository for my Python practice to learn how to write code.
 - Working with numbers
 - Working with digits
 - Basic algorithms
-- add list
+- lists
 ## My exercises
 
 - Number Analyzer
